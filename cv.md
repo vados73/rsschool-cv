@@ -9,6 +9,9 @@
    - **Phone:** +7(960)298-5342
 
 ### About myself:
+I'm 49 years old. At the moment I work at a metallurgical plant.\
+I want to master a new interesting profession of a frontend developer.\ 
+I am also interested in the backend and databases.
 
 ### Code example:
 ```
@@ -41,8 +44,10 @@ document.write(a)
 ```
 
 ### Work experience:
+I don't have work experience.
 
 ### Education and courses:
+Middle school
 
 ### Languages:
    - **Russian** - native speaker
