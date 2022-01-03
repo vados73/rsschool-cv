@@ -11,6 +11,34 @@
 ### About myself:
 
 ### Code example:
+```
+//Программа для перевода десятичных чисел в двоичные.. (с)
+var number = prompt('Введите любое целое десятичное число:', ''); //Вводим любое целое десятичное число
+
+var residue = number; //переменная для записи остатка от деления в массив
+var quotient = number; //переменная для записи частного от деления на 2
+
+var result = []; //создаем пустой массив для записи результата вычисления
+    if (quotient == 1) { //если введенное число равно 1
+        document.write('0001') //выводим 1
+       } else { //..иначе
+        do { //цикл вычисления двоичного числа    
+            quotient /= 2;
+            quotient = (Math.floor(quotient));
+            residue = quotient;
+            residue %= 2;
+            result.push(residue); //записываем результат целочисленного деления в конец массива
+        } while (quotient !== 1);
+    }
+result.reverse();
+    if (number %2 == 0) {
+        result.push('0')    
+    } else {
+        result.push('1')
+    }
+a = result.join('');
+document.write(a)
+```
 
 ### Work experience:
 
