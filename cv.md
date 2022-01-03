@@ -1,4 +1,5 @@
 ## [RSSchool-cv](https://rs.school/)
+![photo](D:\RSSchool\rsschool-cv\img)
 # **Surin Vadim**
 ***
 
