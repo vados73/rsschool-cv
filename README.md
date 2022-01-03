@@ -1,1 +1,1 @@
-https://Vados73.github.io/rsschool-cv/cv.md
+https://Vados73.github.io/rsschool-cv/cv
