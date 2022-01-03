@@ -1,5 +1,5 @@
 ## [RSSchool-cv](https://rs.school/)
-![photo](https://github.com/vados73/rsschool-cv/blob/gh-pages/img/123.jpg)
+![photo](https://github.com/vados73/rsschool-cv/blob/gh-pages/img/Surin Vadim.jpg)
 # **Surin Vadim**
 ***
 
@@ -10,7 +10,7 @@
 
 ### About myself:
 I'm 49 years old. At the moment I work at a metallurgical plant.\
-I want to master a new interesting profession of a frontend developer.\ 
+I want to master a new interesting profession of a frontend developer. 
 I am also interested in the backend and databases.
 
 ### Code example:
