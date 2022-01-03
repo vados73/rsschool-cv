@@ -3,9 +3,9 @@
 ***
 
 ### Contacts:
-    +  **Discord:** Vados73
-    +  **E-mail:** [vados73@yandex.ru](vados73@yandex.ru)
-    +  **Phone:** +7(960)298-5342
+    + **Discord:** Vados73
+    + **E-mail:** [vados73@yandex.ru](vados73@yandex.ru)
+    + **Phone:** +7(960)298-5342
 
 ### About myself:
 
@@ -16,7 +16,7 @@
 ### Education and courses:
 
 ### Languages:
-    +  **Russian** - native speaker
-    +  **English** - A1 (A2 in process...)
+    + **Russian** - native speaker
+    + **English** - A1 (A2 in process...)
 
 
