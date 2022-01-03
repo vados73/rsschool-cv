@@ -1,5 +1,5 @@
 ## [RSSchool-cv](https://rs.school/)
-![photo](https://github.com/vados73/rsschool-cv/blob/gh-pages/img/Surin Vadim.jpg)
+![photo](https://github.com/vados73/rsschool-cv/blob/gh-pages/img/Surin%20Vadim.jpg)
 # **Surin Vadim**
 ***
 
